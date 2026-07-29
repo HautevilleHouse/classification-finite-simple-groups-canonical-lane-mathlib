@@ -1,0 +1,3 @@
+import ClassificationFiniteSimpleGroupsCanonicalLaneLean.Basic
+import ClassificationFiniteSimpleGroupsCanonicalLaneLean.GateLemmas
+import ClassificationFiniteSimpleGroupsCanonicalLaneLean.FinalTheorem
